@@ -8,10 +8,8 @@
 #define FIREBASE_HOST "esp-fun-playtime.firebaseio.com"
 #define FIREBASE_AUTH "v7w3CAI9vOrCmCgrESn9meKc0apDsK7ZLM7hLo3C"
 #define FIREBASE_PATH "/ESP32_Test/button/1"
-// #define WIFI_SSID "Interactive"
-// #define WIFI_PASSWORD "wecanbuildit"
-#define WIFI_SSID "Landmark_Network"
-#define WIFI_PASSWORD "Fredo112"
+#define WIFI_SSID "Interactive"
+#define WIFI_PASSWORD "wecanbuildit"
 
 #define SCK 5    // GPIO5  -- SX1278's SCK
 #define MISO 19  // GPIO19 -- SX1278's MISO
